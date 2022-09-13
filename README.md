@@ -1,2 +1,2 @@
 # LandingPage
-Landing Page project - CSS
+Landing Page Project - CSS
